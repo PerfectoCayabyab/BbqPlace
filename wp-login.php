@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; order &#8212; WordPress</title>
+	<title>Log In &lsaquo; The BBQ Place &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="https://perfectocayabyab.github.io/BbqPlace/wp-includes/css/dashicons.min.css?ver=6.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://perfectocayabyab.github.io/BbqPlace/wp-includes/css/buttons.min.css?ver=6.2" media="all">
@@ -46,7 +46,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="https://perfectocayabyab.github.io/BbqPlace/">&larr; Go to order</a>		</p>
+			<a href="https://perfectocayabyab.github.io/BbqPlace/">&larr; Go to The BBQ Place</a>		</p>
 			</div>
 			<script src="https://perfectocayabyab.github.io/BbqPlace/wp-includes/js/jquery/jquery.min.js?ver=3.6.3" id="jquery-core-js"></script>
 <script src="https://perfectocayabyab.github.io/BbqPlace/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
